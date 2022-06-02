@@ -1,1 +1,2 @@
 this is hr file
+a new line is added
